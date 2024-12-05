@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources for color palettes\nHTML Color Codes\nCoolors"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +14,31 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "posts/2024-12-04-post2/index.html",
+    "href": "posts/2024-12-04-post2/index.html",
+    "title": "Second blog post",
+    "section": "",
+    "text": "Today I’d like to tell you some more about how to create a website with Quarto."
+  },
+  {
+    "objectID": "posts/2024-12-04-post1/index.html",
+    "href": "posts/2024-12-04-post1/index.html",
+    "title": "First blog post",
+    "section": "",
+    "text": "Hello everyone, I am writing a blog. This is my first ever post. Hooray.\nVultures are cool."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my_website",
+    "title": "Kaija Gahm",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a blurb introducing me!"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "First blog post\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSecond blog post\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

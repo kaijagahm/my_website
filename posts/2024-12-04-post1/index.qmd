@@ -1,0 +1,8 @@
+---
+title: "First blog post"
+date: 2024-12-04
+---
+
+Hello everyone, I am writing a blog. This is my first ever post. Hooray.
+
+Vultures are cool.

@@ -1,0 +1,6 @@
+---
+title: "Second blog post"
+date: 2024-12-04
+---
+
+Today I'd like to tell you some more about how to create a website with Quarto.

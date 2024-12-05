@@ -1,0 +1,9 @@
+---
+title: "Resources"
+---
+
+# Resources for color palettes
+
+[HTML Color Codes](htmlcolorcodes.com)
+
+[Coolors](coolors.co)
